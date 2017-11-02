@@ -1,3 +1,5 @@
+package filters;
+
 import play.mvc.EssentialFilter;
 import play.filters.hosts.AllowedHostsFilter;
 import play.http.DefaultHttpFilters;
